@@ -4,7 +4,6 @@ My academic background combines technical proficiency in data analysis with an u
 
 Technical Skills: Python / SQL / R / C 
 
-- 🔭 I’m currently working on predicting electrical consumption using Linear Regression. 
 - 🌱 I’m currently learning ML and AI 
 - 📫 How to reach me: matgoni19@gmail.com
 
