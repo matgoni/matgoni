@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Ian Mateos
+#### I am an undergraduate student majoring in Data Science and Economics
 My academic background combines technical proficiency in data analysis with an understanding of economic principles, equipping me with a unique skill set to tackle complex data-driven problems.
 
 Technical Skills: Python / SQL / R / C 
