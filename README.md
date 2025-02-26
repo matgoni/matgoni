@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am an undergraduate student majoring in Data Science and Economics. My academic background combines technical proficiency in data analysis with a deep understanding of economic principles, equipping me with a unique skill set to tackle complex data-driven problems.
+I'm an undergraduate student specializing in Data Science and Economics. I blend technical expertise in data analysis with a strong grasp of economic principles, empowering me to tackle complex, data-driven challenges with a unique perspective.
 
 ### 🛠 Languages and Tools
 
